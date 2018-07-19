@@ -1,0 +1,3 @@
+[submodule "distro/arch/utilities/install-scripts"]
+	path = distro/arch/utilities/install-scripts
+	url = https://git.archlinux.org/arch-install-scripts.git
